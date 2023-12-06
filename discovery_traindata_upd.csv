@@ -1,0 +1,5 @@
+Claim_id,Date,Product_line,Product,Client_segments,Client_location,Client_age,Feedback,Label
+0,2016/1/1,tea,lemon tea,Not Member,Manhattan,20,The straw was peeled off from the juice pack.,package_container
+1,2016/1/2,ice cream,vanilla ice cream,Silver Member,Queens,20,"I got some ice cream for my children, but there was something like a piece of thread inside the cup.",contamination_tampering
+2,2023/10/27,soft drink,cola,Silver Member,Brooklyn,24,"Tastes more like water than cola.",quality
+3,2023/11/06,beer,corona,Not Member,Bronx,26,"I like the beer, but not the name.",marketing
