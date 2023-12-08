@@ -1,0 +1,35 @@
+training_data = [
+    {
+        "labels": ["Laptops"],
+        "key_phrases": ["laptops"]
+    },
+    {
+        "labels": ["Cell Phones"],
+        "key_phrases": ["mobile phones", "android smart phones", "apple smart phones"]
+    },
+    {
+        "labels": ["Video Games"],
+        "key_phrases": ["video games"]
+    },
+    {
+        "labels": ["Appliances"],
+        "key_phrases": ["home appliance", "refrigerator", "laundry machine"]
+    },
+    {
+        "labels": ["Cameras"],
+        "key_phrases": ["cameras"]
+    },
+    {
+        "labels": ["Cameras", "DSLR Cameras"],
+        "key_phrases": ["Digital", "single-lens", "reflex camera"]
+    },
+    {
+        "labels": ["Cameras", "DSLR Cameras", "Lenses"],
+        "key_phrases": ["DSLR lens", "lenses"]
+    },
+    {
+        "labels": ["Cameras", "Mirrorless Cameras"],
+        "key_phrases": ["mirrorless", "interchangeable-lens", "camera"]
+    }
+    
+]
